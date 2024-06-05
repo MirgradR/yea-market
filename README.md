@@ -1,1 +1,1 @@
-yea-market-client
+YEA-MARKET-CLIENT
